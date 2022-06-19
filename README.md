@@ -1,4 +1,4 @@
-# RyseInventorySupportBot ![](https://i.imgur.com/BS3gwxL.png)
+# RyseInventorySupportBot [WIP] ![](https://i.imgur.com/BS3gwxL.png)
 _Discord bot for the RyseInventory API._
 
 # Information
